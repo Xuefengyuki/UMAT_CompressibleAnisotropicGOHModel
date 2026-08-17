@@ -1,6 +1,6 @@
-C     ABAQUS Subroutine for damage Chagnon Yeoh model Hyperelasticity
+C     ABAQUS Subroutine for anisotropic GOH model
 C
-C     More Infos can be found at https://github.com/Xuefengyuki/UMAT_NearlyIncompressibleYeohFlemingChagnonDamageMullinsEffect.git
+C     More Infos can be found at https://github.com/Xuefengyuki/UMAT_CompressibleAnisotropicGOHModel.git
 
 
 C---------------------------------------------------------------------------------------
